@@ -1,15 +1,16 @@
 
-# # Hi, I'm Andrey 👋
+## Hi, I'm Andrey 👋
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
+I'm beginner web development and software engineer
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qq_71Y3) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreygrishunin@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-qq_71Y3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qq_71Y3) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreygrishunin@gmail.com)
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
