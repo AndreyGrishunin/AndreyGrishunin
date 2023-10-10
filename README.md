@@ -4,7 +4,7 @@
 ---
 
 ### :man_technologist: About me:
-I'm beginner web development and software engineer
+I'm beginner web developer and software engineer
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-qq_71Y3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qq_71Y3) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreygrishunin@gmail.com)
 
@@ -19,24 +19,23 @@ I'm beginner web development and software engineer
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/girs/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Completed courses::
 
-| Курсы                                                           | Дата              |
+| Course                                                          | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
 | netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
-
---- -->
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 03/2022 - 04/2022 |
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 08/2022 - 08/2022 |
+| stepik.org/JavaScript для начинающих                            | 09/2022 - 10/2023 |
+| practicum.yandex/Веб разработчик                                | 02/2023 - 05/2023 |
+| greenatomcaselab.ispringlearn.ru/Разработчик 1С:Bitrix          | 08/2023 - 10/2023 |
 
 <!-- ### 💻 Codewars:
 
