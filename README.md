@@ -20,13 +20,12 @@ I'm beginner web developer and software engineer
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/girs/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   
 </div>
 
 ---
 
-### 💻 Completed courses::
+### 💻 Completed courses:
 
 | Course                                                          | Date              |
 | ----------------------------------------------------------------| :---------------: |
