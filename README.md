@@ -6,7 +6,7 @@
 ### :man_technologist: About me:
 I'm beginner web developer and software engineer
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-qq_71Y3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qq_71Y3) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreygrishunin@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-qq_71Y3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Grishunin_A) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreygrishunin@gmail.com)
 
 ---
 
