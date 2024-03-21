@@ -35,6 +35,7 @@ I'm beginner web developer and software engineer
 | stepik.org/JavaScript для начинающих                            | 09/2022 - 10/2023 |
 | practicum.yandex/Веб разработчик                                | 02/2023 - 05/2023 |
 | greenatomcaselab.ispringlearn.ru/Разработчик 1С:Bitrix          | 08/2023 - 10/2023 |
+| learning-platform.ylab.website/course-info/19/Интенсив Bitrix   | 02/2024 - 03/2024 |
 
  ### 💻 Codewars:
 
